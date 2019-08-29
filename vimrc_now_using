@@ -63,7 +63,9 @@ Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 "" ruby
 Plug 'tpope/vim-rails'
+"" ctags
 Plug 'szw/vim-tags'
+"" 検索
 Plug 'vim-scripts/grep.vim'
 call plug#end()
 filetype plugin indent on
